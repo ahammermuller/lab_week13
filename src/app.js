@@ -16,6 +16,4 @@ copydiv(copy_container)
 
 // Delete
 //function clearcopies(evt){
-    original_section.removeEventListener("click", (evt) => {
-    copy_container.remove()
-    })
+//    original_section.removeEventListener("click", (evt) => {
