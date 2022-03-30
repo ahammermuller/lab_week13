@@ -40,4 +40,7 @@ h2{
 
 button{
     background-color: var(--main_light_green);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.1rem;
+    border-radius: 8px;
 }
