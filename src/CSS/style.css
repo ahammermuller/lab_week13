@@ -44,3 +44,15 @@ button{
     font-size: 1.1rem;
     border-radius: 8px;
 }
+
+.copy-container{
+    font-size: 1.1rem;
+    color: var(--main-text-color);
+    padding: 10px;
+}
+
+.inner {
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+  }
